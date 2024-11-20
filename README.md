@@ -6,7 +6,7 @@ Title: Circular_Probe
 
 Author: Fabrice GUERTON, Université de Pau et des Pays de l'Adour (UPPA), FRANCE; fabrice.guerton@univ-pau.fr
 
-History: version 1.0, 10/2024
+History: version 1.1, 11/2024; difference with version 1.0, 10/2024: a bug correction.
 
 Limitations: 8 or 16 bits grey image; developed on ImageJ 1.54 K (may not work properly on earlier version).
 
